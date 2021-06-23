@@ -1,6 +1,6 @@
 # finest-fm
 
-![screenshot](./public\screenshot.jpg)
+![screenshot](http://r.photo.store.qq.com/psc?/V51X4JtX0DLBT347VGOH0rrTRm3qtTow/45NBuzDIW489QBoVep5mcWs0YUMZaX73exuD0C.9vGROAKL39L1VlN09Ewmqq4aE7kO5m2gW3UPrVevzhyprkHGEe69Tqr47FkFhXHR07Rw!/r)
 
 
 
