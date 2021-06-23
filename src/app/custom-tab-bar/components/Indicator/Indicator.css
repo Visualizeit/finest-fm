@@ -1,0 +1,16 @@
+/*postcss-pxtransform disable*/
+.colorfulShadow {
+    position: relative;
+}
+
+.colorfulShadow::after {
+    content: '';
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    background: inherit;
+    background-position: center center;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5)) blur(20px);
+    transform: translateY(25px);
+    z-index: -1;
+}

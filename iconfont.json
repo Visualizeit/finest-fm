@@ -1,0 +1,10 @@
+{
+    "symbol_url": "https://at.alicdn.com/t/font_2550962_ee1h0ftjyw5.js?spm=a313x.7781069.1998910419.70&file=font_2550962_ee1h0ftjyw5.js",
+    "save_dir": "./src/app/custom/iconfont",
+    "use_typescript": true,
+    "platforms": ["weapp"],
+    "use_rpx": true,
+    "trim_icon_prefix": "icon",
+    "default_icon_size": 18,
+    "design_width": 750
+}

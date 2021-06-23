@@ -1,0 +1,12 @@
+.marquee {
+    animation: marquee 20s linear infinite;
+}
+
+@keyframes marquee {
+    0% {
+        text-indent: 0%;
+    }
+    100% {
+        text-indent: -100%;
+    }
+}
